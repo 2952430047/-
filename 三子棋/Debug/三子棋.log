@@ -1,0 +1,5 @@
+﻿  game.cpp
+  源.cpp
+  正在生成代码...
+I:\item\三子棋\game.cpp(128): warning C4715: “judgment”: 不是所有的控件路径都返回值
+  三子棋.vcxproj -> I:\item\三子棋\Debug\三子棋.exe
